@@ -1,0 +1,5 @@
+/* controls the sizing of the food images */
+.image-size{
+    height:300px;
+    width:500px;
+}
